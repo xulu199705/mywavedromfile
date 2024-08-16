@@ -24,7 +24,7 @@
     hscale: 1,
   },
   head:{
-    text: `bug caused by phase updating`,
+    text: 'bug caused by phase updating',
   },
   foot:{
   },
